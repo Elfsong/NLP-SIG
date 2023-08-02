@@ -7,13 +7,10 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        IDS
-        NLP Special Interest Group
       image:
         filename: welcome.jpg
       text: |        
-        [Slogan Here]
+        Welcome to the IDS NLP Special Interest Group! [Add a slogan here]
   
   - block: collection
     content:
