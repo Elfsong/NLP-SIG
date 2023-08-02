@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        IDS
+        NLP Special Interest Group
       image:
         filename: welcome.jpg
       text: |
