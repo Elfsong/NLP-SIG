@@ -1,3 +1,1 @@
-NLP SIG
-
-Hello World
+Welcome to IDS NLP-SIG!
